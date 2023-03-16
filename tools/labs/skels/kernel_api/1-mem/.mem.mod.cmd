@@ -1,0 +1,1 @@
+cmd_/home/circeanubogdan/linux/tools/labs/skels/./kernel_api/1-mem/mem.mod := { echo  /home/circeanubogdan/linux/tools/labs/skels/./kernel_api/1-mem/mem.o;  echo; } > /home/circeanubogdan/linux/tools/labs/skels/./kernel_api/1-mem/mem.mod
