@@ -1,0 +1,1 @@
+cmd_/home/circeanubogdan/linux/tools/labs/skels/./kernel_api/3-memory/memory.mod := { echo  /home/circeanubogdan/linux/tools/labs/skels/./kernel_api/3-memory/memory.o;  echo; } > /home/circeanubogdan/linux/tools/labs/skels/./kernel_api/3-memory/memory.mod

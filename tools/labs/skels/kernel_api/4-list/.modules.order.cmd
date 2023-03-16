@@ -1,0 +1,1 @@
+cmd_/home/circeanubogdan/linux/tools/labs/skels/./kernel_api/4-list/modules.order := {   echo /home/circeanubogdan/linux/tools/labs/skels/./kernel_api/4-list/list.ko; :; } | awk '!x[$$0]++' - > /home/circeanubogdan/linux/tools/labs/skels/./kernel_api/4-list/modules.order
