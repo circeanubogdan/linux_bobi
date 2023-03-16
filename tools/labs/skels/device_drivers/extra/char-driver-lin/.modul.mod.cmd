@@ -1,0 +1,1 @@
+cmd_/home/circeanubogdan/linux/tools/labs/skels/./device_drivers/extra/char-driver-lin/modul.mod := { echo  /home/circeanubogdan/linux/tools/labs/skels/./device_drivers/extra/char-driver-lin/modul.o;  echo; } > /home/circeanubogdan/linux/tools/labs/skels/./device_drivers/extra/char-driver-lin/modul.mod
